@@ -1,4 +1,4 @@
-Replicando tela de suporte do iphone, exercício prático do programa TIC em trilhas no curso Foudation IOS.
+Replicando tela de suporte do iphone em SwiftUI, exercício prático do programa TIC em trilhas no curso Foudation IOS.
 
 # RESULTADO
 
